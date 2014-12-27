@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chitley.sameer@gmail.com",
+    "longName": "Peb-A-Sketch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Peb-A-Sketch",
+    "uuid": "237b46b0-0d8c-4ef2-be91-943b61f78737",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
